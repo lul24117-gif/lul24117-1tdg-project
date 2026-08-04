@@ -16,3 +16,17 @@
     text-align: center;
     padding: 14px 16px;
 }
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.flex-container img{
+    width: 100%;
+}
+
+.img2-att img{
+    width:60%;
+}
