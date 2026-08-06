@@ -20,13 +20,30 @@
 .flex-container{
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-evenly;
 }
 
 .flex-container img{
     width: 100%;
 }
 
+.img-att img{
+    width: 85%;
+}
+
+.img1-att img{
+    width: 30%;
+}
+
+
 .img2-att img{
-    width:60%;
+   width: 100%;
+}
+
+.img3-att img{
+    width: 45%;
+}
+
+.img4-att img{
+    width:100%;
 }
