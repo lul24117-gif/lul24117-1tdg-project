@@ -23,30 +23,50 @@
     justify-content: center;
 }
 
+.flex-container p{
+    border-radius: 16px;
+
+}
+
 .flex-container img{
     width: 100%;
 }
 
 .img-att img{
-    width: 85%;
+    width: 100%;
+    height: 1000px;
     display: flex;
+    border-radius: 16px;
+}
+
+.img1a-att img{
+    width: 100%;
+    border-radius: 16px;
 }
 
 .img1-att img{
     width: 100%;
+    height: 345px;
+    border-radius: 16px;
 }
 
 .img2-att img{
-   width: 100%;
+   width: 850px;
+   height: 550px;
+   border-radius: 16px;
 }
 
 .img3-att{
     justify-content: center;
+    border-radius: 16px;
 }
 .img3-att img{
     width: 90%;
+    border-radius: 16px;
 }
 
 .img4-att img{
-    width:100%;
+    width: 100%;
+    height: 1300px;
+    border-radius: 16px;
 }
