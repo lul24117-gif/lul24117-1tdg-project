@@ -1,96 +1,110 @@
-.navbar ul{
+.flex-container2 {
+    background-color: #fed2ef;
+    border-radius: 16px;
+    padding: 0 10px;
+}
+
+.navbar ul {
     display: flex;
-    list-style-type:none ;
+    list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     justify-content: center;
     justify-content: space-evenly;
-    background-color: #fed2ef;
     border-radius: 16px;
 }
 
-.navbar li{
+.navbar li {
     float: left;
 }
 
-.navbar li a{
+.navbar li a {
     background-color: #fb98bf;
-    color:#fbf39e ;
+    color: #fbf39e;
     border-radius: 16px;
 }
 
-.navbar li a{
+.navbar li a {
     display: block;
     text-align: center;
     padding: 14px 16px;
 }
 
-.flex-container1 h1{
-   background-color: #fed2ef; 
-   color:#fb98bf;
-   border-radius: 16px; 
+.flex-container1 {
+    border-radius: 16px;
+    display: flex;
+    justify-content: center;
 }
 
-.flex-container{
+.flex-container1 h1 {
+    background-color: #fb98bf;
+    color: #fbf39e;
+    border-radius: 16px;
+    padding: 0 10px;
+    margin: 10px;
+}
+
+.flex-container {
     display: flex;
     flex-direction: row;
     justify-content: center;
 }
 
-.flex-container p{
+.flex-container p {
     border-radius: 16px;
 
 }
 
-.flex-container img{
+.flex-container img {
     width: 100%;
 }
 
-.img-att img{
+.img-att img {
     width: 100%;
     height: 1000px;
     display: flex;
     border-radius: 16px;
 }
 
-.img1a-att img{
+.img1a-att img {
     width: 100%;
     border-radius: 16px;
 }
 
-.img1-att img{
+.img1-att img {
     width: 100%;
     height: 345px;
     border-radius: 16px;
 }
 
-.img2-att img{
-   width: 850px;
-   height: 550px;
-   border-radius: 16px;
+.img2-att img {
+    width: 850px;
+    height: 550px;
+    border-radius: 16px;
 }
 
-.img3-att{
+.img3-att {
     justify-content: center;
     border-radius: 16px;
 }
-.img3-att img{
+
+.img3-att img {
     width: 90%;
     border-radius: 16px;
 }
 
-.img4-att img{
+.img4-att img {
     width: 100%;
     height: 1300px;
     border-radius: 16px;
 }
 
-.footnote h1{
+.footnote h1 {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    border-radius:16px ;
+    border-radius: 16px;
     background-color: #fed2ef;
     color: #fb98bf;
 }
