@@ -51,8 +51,9 @@
     justify-content: center;
 }
 
-.flex-container p {
+.flex-container h2 {
     border-radius: 16px;
+    margin-right: 10px;
 
 }
 
@@ -100,11 +101,17 @@
     border-radius: 16px;
 }
 
-.footnote h1 {
+.footnote{
     display: flex;
     flex-direction: row;
     justify-content: center;
+
+}
+
+.footnote h2 {
     border-radius: 16px;
-    background-color: #fed2ef;
-    color: #fb98bf;
+    background-color: #fb98bf;
+    color: #fbf39e;
+    padding: 0 10px;
+    margin:5px;
 }
