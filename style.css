@@ -63,9 +63,10 @@
 
 .img-att img {
     width: 100%;
-    height: 1000px;
+    height: 650px;
     display: flex;
     border-radius: 16px;
+    padding: 0 3px;
 }
 
 .img1a-att img {
@@ -93,11 +94,12 @@
 .img3-att img {
     width: 90%;
     border-radius: 16px;
+    padding: 0 0;
 }
 
 .img4-att img {
     width: 100%;
-    height: 1300px;
+    height: 500px;
     border-radius: 16px;
 }
 
